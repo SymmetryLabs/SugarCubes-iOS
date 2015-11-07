@@ -1,0 +1,28 @@
+PODS:
+  - PeerTalk (0.0.1)
+  - ReactiveCocoa (4.0.4-alpha-1):
+    - ReactiveCocoa/UI (= 4.0.4-alpha-1)
+    - Result (~> 0.6-beta.1)
+  - ReactiveCocoa/Core (4.0.4-alpha-1):
+    - ReactiveCocoa/no-arc
+    - Result (~> 0.6-beta.1)
+  - ReactiveCocoa/no-arc (4.0.4-alpha-1):
+    - Result (~> 0.6-beta.1)
+  - ReactiveCocoa/UI (4.0.4-alpha-1):
+    - ReactiveCocoa/Core
+    - Result (~> 0.6-beta.1)
+  - Result (0.6.0-beta.6)
+  - Socket.IO-Client-Swift (4.1.1)
+
+DEPENDENCIES:
+  - PeerTalk (= 0.0.1)
+  - ReactiveCocoa (~> 4.0-alpha)
+  - Socket.IO-Client-Swift (~> 4.1)
+
+SPEC CHECKSUMS:
+  PeerTalk: 5e6843592fea14a4221a9829c43d92a309b7130b
+  ReactiveCocoa: 618a2fc13d4ed80e380aa6fa56547cef43c7341d
+  Result: dc390d0b58f9ec43fcd536f1ebdd130803cc6cbc
+  Socket.IO-Client-Swift: 2620dbb779edbbd0bc0cac96c053ca7c35aba652
+
+COCOAPODS: 0.39.0
